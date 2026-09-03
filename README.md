@@ -1,4 +1,4 @@
-# AutoReg (AR) Time Series Analysis
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0f1c&height=120&section=header&text=AutoReg%20Time%20Series%20Model&fontSize=38&fontColor=00e5ff" />
@@ -6,7 +6,7 @@
 
 ---
 
-## Overview
+## Overview ( AutoReg (AR) Time Series Analysis)
 
 This project demonstrates **time series modeling using the AutoRegressive (AR) model** from `statsmodels`. It focuses on understanding lag-based dependencies, model diagnostics, and statistical interpretation using a clean, production-ready workflow.
 
